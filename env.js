@@ -1,9 +1,9 @@
-export let COMPROMISED_WALLET_PK = ""; // f5
+export let COMPROMISED_WALLET_PK = "0xYourCompromisedWalletPrivatkey"; // 
 
 export let SPONSOR_WALLET_PK =
-  "";
+  "0xYourSponsorWalletPrivatkey";
 
-export let RPC_URL = "";
+export let RPC_URL = "https Rpc url for  bsc network";
 
 export let GAS_LIMIT = 5000000n;
 
